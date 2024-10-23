@@ -1,4 +1,4 @@
 # New project
 
-This project from local system
-from me
+This project from local system.
+Created by  me
